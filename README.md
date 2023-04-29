@@ -3,7 +3,7 @@
 
 ## Description
 
-This project creates a simple logo based on user input through the command line. Throughout the project I had to incorporate testing and learned the Test Driven Development approach. I also worked with classes and module exports. Follow this li
+This project creates a simple logo based on user input through the command line. Throughout the project I had to incorporate testing and learned the Test Driven Development approach. I also worked with classes and module exports. Follow this [link](https://drive.google.com/file/d/1xt4r3KG-mpjejH-JdozN7ZEqlPymksYp/view) to view a walkthrough video. 
 
 
 ## Table of Contents (Optional)
