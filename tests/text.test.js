@@ -1,4 +1,4 @@
-const Text = require('./text')
+const Text = require('../lib/text')
 
 describe("Triangle Text", () => {
   it("should return blue", () => {

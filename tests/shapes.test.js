@@ -1,6 +1,6 @@
-const {Triangle}= require('./shapes');
-const {Circle} = require('./shapes');
-const {Square} = require('./shapes')
+const {Triangle}= require('../lib/shapes');
+const {Circle} = require('../lib/shapes');
+const {Square} = require('../lib/shapes')
 
 describe("Triangle", () => {
   it("should return blue", () => {
